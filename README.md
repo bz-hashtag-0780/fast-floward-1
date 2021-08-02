@@ -8,7 +8,7 @@ Welcome to Fast Floward! We are excited to have you here. This repository is whe
 
 # 📚 Where to Find Content
 
-* **Content will be shared every day at 7am Pacific Time.** All content will be shared in this repository. We will send a message in the #⏩-fast-floward Discord channel every day at 7am Pacific Time once content is posted.
+* **Content will be shared every day at 10am Pacific Time.** All content will be shared in this repository. We will send a message in the #⏩-fast-floward Discord channel every day at 10am Pacific Time once content is posted.
 
 * **Content will be paired with Quests to help you put your knowledge to the test.** You can think of these like homework — but way more fun and a lot more creative.
 
@@ -33,7 +33,7 @@ Please do not hesitate to reach out to any of us with questions or if you want t
 # ☕️ Office Hours
 We will be hosting Office Hours to help you work through the Quests. This is a time to ask questions and get past anything that is blocking you from completing a Quest.
 
-**🗓When:** Please see [this calendar](https://calendar.google.com/calendar/u/0?cid=Y18wNDM5bnFmdjlpMWNwN2FvbmQ5ZmprMjVhZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) for Office Hours times. That this calendar will be updated weekly.
+**🗓When:** Please see [this calendar](https://calendar.google.com/calendar/ical/c_0439nqfv9i1cp7aond9fjk25ag%40group.calendar.google.com/public/basic.ics) for Office Hours times. That this calendar will be updated weekly.
 
 **📍Where:** Office Hours will be held in the #office-hours voice channel in Discord (see image below).
 
